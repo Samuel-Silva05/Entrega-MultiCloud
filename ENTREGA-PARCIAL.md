@@ -22,4 +22,4 @@ PDF_CUSTO-ATUAL_ESTIMATIVA1
 - 📅 12 meses: **$1.734,48**
 
 📄 Documento completo:
-👉 [Ver PDF](./My%20Estimate%20-%20Calculadora%20de%20Pre%C3%A7os%20da%20AWS.pdf)
+👉 [Ver PDF]([./My%20Estimate%20-%20Calculadora%20de%20Pre%C3%A7os%20da%20AWS.pdf](https://github.com/Samuel-Silva05/ENTREGA-FINAL-MULTI-CLOUD-AWS-AZURE-/blob/main/My%20Estimate%20-%20Calculadora%20de%20Pre%C3%A7os%20da%20AWS.pdf))
