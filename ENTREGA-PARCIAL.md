@@ -30,3 +30,12 @@ Este projeto provisiona uma arquitetura na AWS com:
 
 📄 Documento completo:
 👉 [Ver PDF](https://github.com/Samuel-Silva05/ENTREGA-FINAL-MULTI-CLOUD-AWS-AZURE-/blob/main/My%20Estimate.pdf)
+
+| Serviço                | Descrição                 | Região                  | Custo Inicial | Custo Mensal |
+| ---------------------- | ------------------------- | ----------------------- | ------------- | ------------ |
+| Amazon EC2             | Frontend (HTML/JS/CSS)    | us-east-1 (N. Virginia) | $0.00         | $13.72       |
+| Amazon EC2             | Prometheus / Grafana      | us-east-1 (N. Virginia) | $0.00         | $13.72       |
+| Amazon EC2             | Backend (Node.js)         | us-east-1 (N. Virginia) | $0.00         | $13.72       |
+| Elastic Load Balancing | Application Load Balancer | us-east-1 (N. Virginia) | $0.00         | $323.03      |
+| Amazon VPC             | VPC + NAT Gateway         | us-east-1 (N. Virginia) | $0.00         | $70.71       |
+
