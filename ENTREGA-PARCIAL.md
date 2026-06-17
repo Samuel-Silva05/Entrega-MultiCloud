@@ -1,6 +1,7 @@
 <img width="1024" height="559" alt="WhatsApp Image 2026-06-17 at 08 19 38" src="https://github.com/user-attachments/assets/cdc50b7e-a048-4fb1-97e0-77cf2d76f0af" />
 
 
+
 # 🚀 AWS - Arquitetura Inicial Honey Badger
 
 ## 📌 Descrição da Arquitetura
@@ -50,4 +51,3 @@ Este projeto provisiona uma arquitetura na AWS com:
 | Amazon EC2             | Backend (Node.js)         | us-east-1 (N. Virginia) | $0.00         | $13.72       |
 | Elastic Load Balancing | Application Load Balancer | us-east-1 (N. Virginia) | $0.00         | $323.03      |
 | Amazon VPC             | VPC + NAT Gateway         | us-east-1 (N. Virginia) | $0.00         | $70.71       |
-
