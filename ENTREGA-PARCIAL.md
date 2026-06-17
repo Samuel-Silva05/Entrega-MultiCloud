@@ -16,4 +16,10 @@ Este projeto provisiona uma arquitetura na AWS com:
 
 PDF_CUSTO-ATUAL_ESTIMATIVA1
 
-file:///C:/Users/55408997847/Downloads/My%20Estimate%20-%20Calculadora%20de%20Pre%C3%A7os%20da%20AWS.pdf
+## 💰 Estimativa de Custos
+
+- 💸 Custo mensal: **$144,54**
+- 📅 12 meses: **$1.734,48**
+
+📄 Documento completo:
+👉 [Ver PDF](./My%20Estimate%20-%20Calculadora%20de%20Pre%C3%A7os%20da%20AWS.pdf)
