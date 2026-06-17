@@ -22,6 +22,15 @@ Este projeto provisiona uma arquitetura na AWS com:
 📄 Documento completo:
 👉 [Ver PDF](https://github.com/Samuel-Silva05/ENTREGA-FINAL-MULTI-CLOUD-AWS-AZURE-/blob/main/My%20Estimate%20-%20Calculadora%20de%20Pre%C3%A7os%20da%20AWS.pdf).
 
+| Serviço                | Descrição                 | Região                | Custo inicial | Custo mensal |
+| ---------------------- | ------------------------- | --------------------- | ------------- | ------------ |
+| Amazon EC2             | Frontend (HTML/JS/CSS)    | US East (N. Virginia) | 0,00 USD      | 13,72 USD    |
+| Amazon EC2             | Backend (Node.js)         | US East (N. Virginia) | 0,00 USD      | 13,72 USD    |
+| Amazon EC2             | Prometheus + Grafana      | US East (N. Virginia) | 0,00 USD      | 13,72 USD    |
+| Elastic Load Balancing | Application Load Balancer | US East (N. Virginia) | 0,00 USD      | 72,00 USD    |
+| Amazon VPC             | NAT Gateway               | US East (N. Virginia) | 0,00 USD      | 31,38 USD    |
+
+
 ## 💰 Estimativa de Custos AWS (Versão 2)
 
 - 💸 Custo mensal: **$434,90**
