@@ -1,3 +1,6 @@
+<img width="2720" height="2080" alt="techstock_aws_network_topology" src="https://github.com/user-attachments/assets/b0d831d7-3fca-4c80-a7d9-c7e2daac376d" />
+
+
 # Arquitetura TechStock (resumo do ambiente implantado)
  
 Região AWS: us-east-1  
