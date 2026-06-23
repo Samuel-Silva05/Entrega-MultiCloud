@@ -1,4 +1,4 @@
-<img width="2720" height="2080" alt="techstock_aws_network_topology" src="https://github.com/user-attachments/assets/b0d831d7-3fca-4c80-a7d9-c7e2daac376d" />
+<img width="2720" height="2240" alt="techstock_aws_topology_v2" src="https://github.com/user-attachments/assets/9e8ee674-7a89-49a6-83da-400404d07c9f" />
 
 
 # Arquitetura TechStock (resumo do ambiente implantado)
