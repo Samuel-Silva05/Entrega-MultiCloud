@@ -1,4 +1,5 @@
-<img width="2720" height="2240" alt="techstock_aws_topology_v2" src="https://github.com/user-attachments/assets/9e8ee674-7a89-49a6-83da-400404d07c9f" />
+<img width="1536" height="1024" alt="WhatsApp Image 2026-06-23 at 08 12 18 (1)" src="https://github.com/user-attachments/assets/968e4ae8-5887-469a-83f3-be4cae603ef2" />
+
 
 
 # Arquitetura TechStock (resumo do ambiente implantado)
