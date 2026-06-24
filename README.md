@@ -354,23 +354,6 @@ Ao reiniciar a EC2, o IP público muda. Para evitar perda de acesso:
 
 ---
 
-## Estrutura do Repositório
-
-```
-.
-├── README.md
-├── prometheus/
-│   └── prometheus.yml
-├── node_exporter/
-│   └── node_exporter.service
-└── dashboards/
-    ├── techstock-dashboard.json
-    ├── techstock-ec2-dashboard.json
-    └── techstock-infra-ec2.json
-```
-
----
-
 ## Tecnologias
 
 - **Prometheus** — coleta e armazenamento de métricas
