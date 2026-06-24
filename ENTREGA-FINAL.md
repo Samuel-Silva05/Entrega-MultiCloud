@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="WhatsApp Image 2026-06-23 at 08 12 18 (1)" src="https://github.com/user-attachments/assets/968e4ae8-5887-469a-83f3-be4cae603ef2" />
+
 # TechStock — Arquitetura AWS (S3 + ALB)
 
 > Documentação de arquitetura do projeto TechStock. Para o passo-a-passo de implantação, consulte [`TOPOLOGIA-AWS-S3.md`](./TOPOLOGIA-AWS-S3.md).
